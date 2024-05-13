@@ -89,4 +89,3 @@ After building the program, run it directly from the terminal:
 - Score tracking.
 
 Bom jogo!
-```
